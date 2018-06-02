@@ -1,0 +1,10 @@
+/**index.wxss**/
+
+.container {
+  width: 100%;
+}
+
+.title {
+  background-color: skyblue;
+  margin: 20rpx;
+}
